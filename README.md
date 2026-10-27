@@ -3,7 +3,7 @@
 Hands-on lab built in the Azure portal to practise the skills from the **Microsoft Azure Administrator (AZ-104)** certification.
 Everything was deployed into one resource group, `rg-az104-lab`, and tagged `project : az104-lab`.
 
-**Author:** Mohammed Junaid. Microsoft Certified: Azure Administrator Associate (AZ-104) and Oracle OCI Architect Associate.
+**Author:** Mohammed Junaid: Microsoft Azure Administrator Associate (AZ-104) and Oracle OCI Architect Associate.
 
 ---
 
